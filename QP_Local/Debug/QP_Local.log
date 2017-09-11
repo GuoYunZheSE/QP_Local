@@ -1,0 +1,12 @@
+﻿  Main.cpp
+g:\2017\constrained co-clustering\code\qp4.2\main.cpp(47): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
+g:\2017\constrained co-clustering\code\qp4.2\main.cpp(57): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+g:\2017\constrained co-clustering\code\qp4.2\main.cpp(69): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
+g:\2017\constrained co-clustering\code\qp4.2\main.cpp(71): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+g:\2017\constrained co-clustering\code\qp4.2\main.cpp(90): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+g:\2017\constrained co-clustering\code\qp4.2\main.cpp(305): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\2017\constrained co-clustering\code\qp4.2\main.cpp(310): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
